@@ -1,4 +1,3 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 # Hi👋, I'm Thushani Rubasinghe
 ## A passionate Fullstack Mobile App Developer & AI/ML Enthusiast from Sri Lanka💫<br>
  🌱 I’m currently learning Python and MERN<br>💬 Ask me about Java and Flutter<br>⚡ Fun fact: Apart from coding, I love dancing!
